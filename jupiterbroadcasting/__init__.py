@@ -58,7 +58,7 @@ def search(self, search, results):
 			"text/html"
 			video,
 			"Jupiter Broadcasting Videos"
-			"%s/jbroad/%s" % (self.wiki, article))
+			"%s/jbroad/%s" % (self.jbroad, video))
 pass
 	results.append (url,
 			icon,
