@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=unity.singlet.lens.jupiterbroadcasting
+Exec=/usr/bin/jupiterbroadcasting

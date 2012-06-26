@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.jupiterbroadcasting
+DBusPath=/unity/singlet/lens/jupiterbroadcasting
+Name=Jupiterbroadcasting
+Icon=/usr/share/unity/lenses/jupiterbroadcasting/unity-lens-jupiterbroadcasting.svg
+Description=Jupiterbroadcasting Lens
+SearchHint=Search Jupiterbroadcasting
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=jupiterbroadcasting
