@@ -49,7 +49,7 @@ def jbroad_query(self, search):
 		print "Error : Unable to search Jupiter Broadcasting"
 	return []
 
-#creating searching shit
+#creating searching thing, I guess
 def search(self, search, results):
 	for video in self.jbroad_query(search):
 		results.append("%s/jbroad/%s" % (self.jbroad, video),
