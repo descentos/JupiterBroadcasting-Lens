@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#Let's get this party started!
+
 import logging
 import optparse
 import urllib2
